@@ -9,7 +9,7 @@ class Person: # create class with name person
         # print text 
 
 p = Person()
-# this we create an object of the class Person
+# this we create an object p of the class Person
 
 p.speak()
 # object p execute metod speak
