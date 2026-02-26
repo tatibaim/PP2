@@ -8,7 +8,7 @@ students = [
 ]
 
 # sorted — sorts the list
-# key=lambda x: x[1] — says: sort by the SECOND element (score)
+# key=lambda x: x[1] — says: sort by the second element (score)
 sorted_students = sorted(students, key=lambda x: x[1])
 
 # Output a sorted list
