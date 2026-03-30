@@ -5,3 +5,4 @@ print(x)
 # coincidences
 # (template, coincidences, str)
 # space or point or comma
+# everything that fits the template - replace with :
