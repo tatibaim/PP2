@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Player",
+    "score": 2403,
+    "distance": 684,
+    "coins": 47,
+    "difficulty": "easy",
+    "result": "Crash"
+  },
+  {
+    "name": "Player1",
+    "score": 2173,
+    "distance": 600,
+    "coins": 43,
+    "difficulty": "easy",
+    "result": "Crash"
+  },
+  {
+    "name": "Player1",
+    "score": 2049,
+    "distance": 526,
+    "coins": 42,
+    "difficulty": "hard",
+    "result": "Crash"
+  },
+  {
+    "name": "мирас",
+    "score": 1861,
+    "distance": 383,
+    "coins": 40,
+    "difficulty": "hard",
+    "result": "Crash"
+  },
+  {
+    "name": "Player1",
+    "score": 1776,
+    "distance": 549,
+    "coins": 30,
+    "difficulty": "easy",
+    "result": "Crash"
+  },
+  {
+    "name": "мирас",
+    "score": 1752,
+    "distance": 719,
+    "coins": 26,
+    "difficulty": "hard",
+    "result": "Crash"
+  },
+  {
+    "name": "мирас",
+    "score": 1747,
+    "distance": 2013,
+    "coins": 1,
+    "difficulty": "hard",
+    "result": "Crash"
+  },
+  {
+    "name": "Player1",
+    "score": 1691,
+    "distance": 655,
+    "coins": 30,
+    "difficulty": "hard",
+    "result": "Crash"
+  },
+  {
+    "name": "mirasы",
+    "score": 1688,
+    "distance": 368,
+    "coins": 35,
+    "difficulty": "easy",
+    "result": "Crash"
+  },
+  {
+    "name": "Player1",
+    "score": 1500,
+    "distance": 680,
+    "coins": 22,
+    "difficulty": "easy",
+    "result": "Crash"
+  }
+]
