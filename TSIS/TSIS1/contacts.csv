@@ -1,0 +1,5 @@
+name,email,birthday,group,phone,phone_type
+John,john@gmail.com,1999-04-10,Friend,+77001231221,mobile
+John,john@gmail.com,1999-04-10,Friend,+77001230000,home
+Anna,anna@company.com,1995-12-01,Work,+77774566767,work
+Max,,2001-07-23,Family,+7707570000,mobile
